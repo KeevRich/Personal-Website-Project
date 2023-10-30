@@ -1,9 +1,9 @@
-// Get references to the navigation buttons
+// navigation buttons
 const homeButton = document.getElementById('home-button');
 const aboutButton = document.getElementById('about-button');
 const portfolioButton = document.getElementById('portfolio-button');
 
-// Get references to the content sections
+// content sections
 const homeSection = document.getElementById('home-section');
 const aboutSection = document.getElementById('about-section');
 const portfolioSection = document.getElementById('portfolio-section');

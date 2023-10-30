@@ -1,5 +1,4 @@
 # Personal-Website-Project
-
 This repository contains the source code and assets for my personal website. The website showcases my portfolio, provides information about me, and allows visitors to learn more about my work and projects.
 
 Features
